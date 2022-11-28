@@ -16,6 +16,8 @@ The grade on this assignment will be determined by:
 75% On having the testcases pass legitimated (see note in syllabus about dishonesty)
 20% on code style and programming
 
+this is a change!
+
 Participation Rubric
 Participation rubric of teammates.  List out for your all team members how much they participated.
 	             Member1	Member2	Member3
