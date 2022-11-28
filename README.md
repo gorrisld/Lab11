@@ -20,6 +20,9 @@ this is a change!
 
 this is a branch change!
 
+
+hehe look at this change NERD
+
 Participation Rubric
 Participation rubric of teammates.  List out for your all team members how much they participated.
 	             Member1	Member2	Member3
